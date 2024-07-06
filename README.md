@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **snehhas/snehhas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👋 Hi, I’m Sneha Sunny, a full-stack developer with 3 years of experience. I've worked extensively with Django, React, Java Spring Boot, Angular, HTML, CSS, JavaScript, Python, MongoDB, and Postgres. I have a strong background in competitive programming with a five-star rating on HackerRank and an active profile on LeetCode.
+
+👀 I’m interested in collaborating on web development projects and passionate about ML and DL projects.
+
+📫 How to reach me: snehasunny321@gmail.com
+
+🌱 I am actively seeking full-time full-stack developer roles and would love to connect!
